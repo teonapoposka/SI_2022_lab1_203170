@@ -1,0 +1,9 @@
+git init
+git checkout -b master
+git clone https://github.com/teonapoposka/SI_2022_lab1_203170
+git add .
+git commit -m "Add 5 items to the shopping list"
+git commit -a -m "Add quantities to the items"
+git checkout -b branch1
+git checkout -b branch2
+git push --all
