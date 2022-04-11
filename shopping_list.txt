@@ -1,5 +1,5 @@
-apples
-bananas
-chocolate
-strawberries
-oranges
+apples x2
+bananas x3
+chocolate x5
+strawberries x10
+oranges x4
